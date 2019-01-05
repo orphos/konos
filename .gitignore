@@ -16,3 +16,14 @@
 /Desktop
 /tmp
 /repo
+
+# XDG User Directories
+/Desktop
+/Documents
+/Downloads
+/Music
+/Pictures
+/Public
+/Templates
+/Videos
+
