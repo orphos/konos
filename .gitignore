@@ -1,18 +1,3 @@
-/.Xauthority
-/.bash_logout
-/.bash_profile
-/.bashrc
-/.cache
-/.config
-/.emacs.d
-/.esd_auth
-/.gtkrc-2.0
-/.kde4
-/.local
-/.mozc
-/.mozilla
-/.opam
-/.viminfo
 /repo
 /tmp
 
@@ -32,7 +17,70 @@
 /.Trash
 /.hammerspoon
 /Applications
-/Virtual Machines.localized
 /Library
 /Microsoft Remote Desktop
+/Movies
+/Virtual Machines.localized
 
+# dotfiles that are currently not managed by Konos
+/.Xauthority
+/.android
+/.aws
+/.bash_history
+/.bash_logout
+/.bash_profile
+/.bash_sessions
+/.bashrc
+/.bundle
+/.cache
+/.cling_history
+/.config
+/.cups
+/.dbus-keyrings
+/.docker
+/.emacs.d
+/.esd_auth
+/.esy
+/.fctsslvpnhistory
+/.fossil
+/.gem
+/.gnupg
+/.goenv
+/.gtkrc-2.0
+/.idea-build
+/.ideaLibSources
+/.ideavimrc
+/.ivy2
+/.jjs.history
+/.kde4
+/.local
+/.mikutter
+/.mozc
+/.mozilla
+/.node-gyp
+/.node_repl_history
+/.npm
+/.nvm
+/.ocamlinit
+/.opam
+/.oracle_jre_usage
+/.psql_history
+/.python_history
+/.rbenv
+/.rnd
+/.sbt
+/.scala_history
+/.scalac
+/.sqlite_history
+/.subversion
+/.vim
+/.viminfo
+/.vimrc
+/.vnc
+/.vscode
+/.wget-hsts
+/.yarnrc
+/.z
+
+# VirtualBox
+/VirtualBox VMs
