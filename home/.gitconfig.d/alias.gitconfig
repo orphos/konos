@@ -1,0 +1,6 @@
+[alias]
+        st = status
+        d = diff --color-words --word-diff
+        dc = diff --cached --color-words --word-diff
+        co = checkout
+        cob = checkout -b

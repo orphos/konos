@@ -1,0 +1,3 @@
+[include]
+    path = ~/.gitconfig.d/alias.gitconfig
+    path = ~/.gitconfig.d/custom.gitconfig
