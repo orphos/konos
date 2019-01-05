@@ -1,10 +1,10 @@
-/.config
-/.emacs.d
 /.Xauthority
 /.bash_logout
 /.bash_profile
 /.bashrc
 /.cache
+/.config
+/.emacs.d
 /.esd_auth
 /.gtkrc-2.0
 /.kde4
@@ -13,9 +13,8 @@
 /.mozilla
 /.opam
 /.viminfo
-/Desktop
-/tmp
 /repo
+/tmp
 
 # XDG User Directories
 /Desktop
