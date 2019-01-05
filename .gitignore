@@ -26,3 +26,13 @@
 /Templates
 /Videos
 
+# macOS
+/.CFUserTextEncoding
+/.DS_Store
+/.Trash
+/.hammerspoon
+/Applications
+/Virtual Machines.localized
+/Library
+/Microsoft Remote Desktop
+
