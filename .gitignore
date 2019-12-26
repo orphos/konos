@@ -30,6 +30,7 @@
 !/.config/zsh/conf.d
 !/.zshrc
 !/.zshenv
+!/.env
 !/.zsh
 !/.spacemacs
 
