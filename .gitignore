@@ -13,74 +13,18 @@
 
 # macOS
 /.CFUserTextEncoding
-/.DS_Store
-/.Trash
-/.hammerspoon
 /Applications
 /Library
 /Microsoft Remote Desktop
 /Movies
 /Virtual Machines.localized
 
-# dotfiles that are currently not managed by Konos
-/.Xauthority
-/.android
-/.aws
-/.bash_history
-/.bash_logout
-/.bash_profile
-/.bash_sessions
-/.bashrc
-/.bundle
-/.cache
-/.cling_history
-/.config
-/.cups
-/.dbus-keyrings
-/.docker
-/.emacs.d
-/.esd_auth
-/.esy
-/.fctsslvpnhistory
-/.fossil
-/.gem
-/.gnupg
-/.goenv
-/.gtkrc-2.0
-/.idea-build
-/.ideaLibSources
-/.ideavimrc
-/.ivy2
-/.jjs.history
-/.kde4
-/.local
-/.mikutter
-/.mozc
-/.mozilla
-/.node-gyp
-/.node_repl_history
-/.npm
-/.nvm
-/.ocamlinit
-/.opam
-/.oracle_jre_usage
-/.psql_history
-/.python_history
-/.rbenv
-/.rnd
-/.sbt
-/.scala_history
-/.scalac
-/.sqlite_history
-/.subversion
-/.vim
-/.viminfo
-/.vimrc
-/.vnc
-/.vscode
-/.wget-hsts
-/.yarnrc
-/.z
+# dot files
+/.*
+!/.ssh
+!/.gitconfig.d
+!/.config/fish/conf.d
+!/.spacemacs
 
 # VirtualBox
 /VirtualBox VMs
