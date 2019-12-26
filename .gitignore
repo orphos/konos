@@ -23,7 +23,14 @@
 /.*
 !/.ssh
 !/.gitconfig.d
+!/.config
+/.config/*
 !/.config/fish/conf.d
+!/.config/zsh
+!/.config/zsh/conf.d
+!/.zshrc
+!/.zshenv
+!/.zsh
 !/.spacemacs
 
 # VirtualBox
