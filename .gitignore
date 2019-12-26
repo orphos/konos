@@ -33,6 +33,7 @@
 !/.env
 !/.zsh
 !/.spacemacs
+!/.local
 
 # VirtualBox
 /VirtualBox VMs
