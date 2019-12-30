@@ -6,8 +6,10 @@ _git_prompt() {
     echo -n '<%F{002}'
     echo -n "$(git branch 2>/dev/null | sed -n '/\* /s///p')"
     echo -n '%f>'
-    if test -n "$(git status --porcelain)"; then
-      echo -n '%F{002}*%f'
+    if test -n "$(git rev-parse --show-toplevel)" ; then
+      if test -n "$(git status --porcelain)"; then
+        echo -n '%F{002}*%f'
+      fi
     fi
   fi
 }
