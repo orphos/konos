@@ -1,5 +1,6 @@
 /repo
 /tmp
+/opt
 
 # XDG User Directories
 /Desktop
